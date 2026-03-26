@@ -23,8 +23,8 @@ To write a Python program to read a file and count the frequency of each charact
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 from collections import defaultdict
 
 def create_file(file_path, content):
