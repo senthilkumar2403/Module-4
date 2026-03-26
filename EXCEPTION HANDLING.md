@@ -17,8 +17,8 @@ To write a Python program to check if the value given in age as input is negativ
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 try:
     age = int(input())
     print("Age is:")
